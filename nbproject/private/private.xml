@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/ventanaprestamos.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/datos/tbclientedatos.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/entity/Tbprestamo.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/ventanaclientes.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/clsExportarExcel.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/ventanaprincipal.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/entity/Tbcliente.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/ventanareporteprest.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/ventanareportec.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/controlador/TbclienteJpaController.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/Prestamos.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/datos/tbpagosdatos.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/entity/Tbpagos.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/controlador/exceptions/NonexistentEntityException.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/controlador/TbpagosJpaController.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/datos/tbprestamosdatos.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/ventanareportepagos.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/controlador/TbprestamoJpaController.java</file>
+            <file>file:/C:/Users/Elisvan/Documents/NetBeansProjects/Prestamos/src/prestamos/ventanas/ventanapagos.java</file>
+        </group>
+    </open-files>
+</project-private>
